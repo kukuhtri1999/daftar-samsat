@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'app_name' => 'Antri SAMSAT',
+    'welcome' => 'Selamat Datang',
+    'language' => 'Bahasa',
+    'nav' => [
+        'home' => 'Beranda',
+        'register' => 'Daftar Antrian',
+        'check_queue' => 'Cek Antrian',
+        'about' => 'Tentang',
+        'contact' => 'Kontak',
+        'login' => 'Masuk',
+        'logout' => 'Keluar',
+        'dashboard' => 'Dashboard',
+    ],
+    'buttons' => [
+        'save' => 'Simpan',
+        'cancel' => 'Batal',
+        'edit' => 'Edit',
+        'delete' => 'Hapus',
+        'view' => 'Lihat',
+        'back' => 'Kembali',
+        'next' => 'Selanjutnya',
+        'previous' => 'Sebelumnya',
+        'search' => 'Cari',
+        'filter' => 'Filter',
+        'export' => 'Ekspor',
+        'print' => 'Cetak',
+    ],
+    'messages' => [
+        'loading' => 'Memuat...',
+        'no_data' => 'Tidak ada data',
+        'confirm_delete' => 'Apakah Anda yakin ingin menghapus data ini?',
+        'delete_success' => 'Data berhasil dihapus',
+        'save_success' => 'Data berhasil disimpan',
+        'update_success' => 'Data berhasil diperbarui',
+        'error' => 'Terjadi kesalahan',
+    ],
+    'admin' => [
+        'title' => 'Panel Admin',
+        'bookings' => 'Data Antrian',
+        'users' => 'Pengguna',
+        'settings' => 'Pengaturan',
+        'reports' => 'Laporan',
+    ],
+];

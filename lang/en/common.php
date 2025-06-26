@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'app_name' => 'Antri SAMSAT',
+    'welcome' => 'Welcome',
+    'language' => 'Language',
+    'nav' => [
+        'home' => 'Home',
+        'register' => 'Register Queue',
+        'check_queue' => 'Check Queue',
+        'about' => 'About',
+        'contact' => 'Contact',
+        'login' => 'Login',
+        'logout' => 'Logout',
+        'dashboard' => 'Dashboard',
+    ],
+    'buttons' => [
+        'save' => 'Save',
+        'cancel' => 'Cancel',
+        'edit' => 'Edit',
+        'delete' => 'Delete',
+        'view' => 'View',
+        'back' => 'Back',
+        'next' => 'Next',
+        'previous' => 'Previous',
+        'search' => 'Search',
+        'filter' => 'Filter',
+        'export' => 'Export',
+        'print' => 'Print',
+    ],
+    'messages' => [
+        'loading' => 'Loading...',
+        'no_data' => 'No data available',
+        'confirm_delete' => 'Are you sure you want to delete this data?',
+        'delete_success' => 'Data deleted successfully',
+        'save_success' => 'Data saved successfully',
+        'update_success' => 'Data updated successfully',
+        'error' => 'An error occurred',
+    ],
+    'admin' => [
+        'title' => 'Admin Panel',
+        'bookings' => 'Queue Data',
+        'users' => 'Users',
+        'settings' => 'Settings',
+        'reports' => 'Reports',
+    ],
+];
